@@ -1,0 +1,5 @@
+Iphone XII,8500.00,3
+NoteBook,5700.00,12
+Ipad,2500.00,23
+Mouse,49.99,10
+Teclado,10.00,40
